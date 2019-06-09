@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/AdventureScene.unity
+    guid: 46c8f3f3d73f4d147bf8f308a9bf44e1
+  - enabled: 0
     path: Assets/Scenes/SpaceShoot.unity
     guid: 8116bcf06f477324fb2a76b20f1e4e23
   - enabled: 0
@@ -14,4 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TestScene.unity
     guid: 092ce4ae02abc564eb64d47d6fb118a9
+  - enabled: 1
+    path: Assets/Scenes/Adventure3Scene.unity
+    guid: f588791d3cf9e794eb3c40111a89d163
+  - enabled: 1
+    path: Assets/Scenes/Adventure2Scene.unity
+    guid: 40d4d25faa2d5794a904f4206f1a9159
   m_configObjects: {}
